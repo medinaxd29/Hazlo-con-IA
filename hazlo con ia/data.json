@@ -1,0 +1,262 @@
+{
+ "T": [
+  [
+   "Crear un CV",
+   "Europass",
+   "Editor oficial de la Unión Europea. Rellenas tus datos y descargas el PDF sin marca de agua.",
+   "https://europa.eu/europass/es",
+   "Gratis"
+  ],
+  [
+   "Crear un CV",
+   "Canva",
+   "Cientos de plantillas de currículum listas para editar y descargar.",
+   "https://www.canva.com/es_es/curriculum-vitae/",
+   "Gratis con límites"
+  ],
+  [
+   "Escribir una carta",
+   "ChatGPT",
+   "Pide una carta de presentación pegando la oferta de trabajo y tu experiencia.",
+   "https://chatgpt.com",
+   "Gratis con límites"
+  ],
+  [
+   "Escribir una carta",
+   "Gemini",
+   "Redacta cartas y correos formales con el asistente de Google.",
+   "https://gemini.google.com",
+   "Gratis"
+  ],
+  [
+   "Resumir un PDF",
+   "NotebookLM",
+   "Sube un PDF y haz preguntas sobre su contenido. Responde citando el documento.",
+   "https://notebooklm.google.com",
+   "Gratis"
+  ],
+  [
+   "Resumir un PDF",
+   "ChatPDF",
+   "Arrastra un PDF y conversa con él. Útil para artículos y manuales.",
+   "https://www.chatpdf.com",
+   "Gratis con límites"
+  ],
+  [
+   "Crear una presentación",
+   "Gamma",
+   "Escribe el tema y genera una presentación completa con diseño.",
+   "https://gamma.app",
+   "Gratis con límites"
+  ],
+  [
+   "Crear una presentación",
+   "Canva",
+   "Plantillas de diapositivas con asistente de IA para el texto.",
+   "https://www.canva.com/es_es/presentaciones/",
+   "Gratis con límites"
+  ],
+  [
+   "Mejorar un texto",
+   "LanguageTool",
+   "Corrige ortografía, gramática y estilo en español y otros idiomas.",
+   "https://languagetool.org/es",
+   "Gratis con límites"
+  ],
+  [
+   "Mejorar un texto",
+   "Claude",
+   "Pide que reescriba tu texto con otro tono o más claro y corto.",
+   "https://claude.ai",
+   "Gratis con límites"
+  ],
+  [
+   "Crear un logo",
+   "Canva Logo",
+   "Elige estilo, edita colores y descarga tu logotipo.",
+   "https://www.canva.com/es_es/crear/logotipos/",
+   "Gratis con límites"
+  ],
+  [
+   "Crear un logo",
+   "Namelix",
+   "Genera nombres de marca y logotipos a partir de unas palabras clave.",
+   "https://namelix.com",
+   "Gratis"
+  ],
+  [
+   "Generar una imagen",
+   "Microsoft Designer",
+   "Describe la imagen y recibe varias opciones. Necesitas cuenta Microsoft.",
+   "https://designer.microsoft.com",
+   "Gratis"
+  ],
+  [
+   "Generar una imagen",
+   "Leonardo AI",
+   "Imágenes artísticas y realistas con créditos diarios gratuitos.",
+   "https://leonardo.ai",
+   "Gratis con límites"
+  ],
+  [
+   "Plan de estudio",
+   "NotebookLM",
+   "Sube tus apuntes y pide esquemas, preguntas de examen y un calendario.",
+   "https://notebooklm.google.com",
+   "Gratis"
+  ],
+  [
+   "Traducir un documento",
+   "DeepL",
+   "Traduce documentos completos con una calidad muy natural.",
+   "https://www.deepl.com/es/translator",
+   "Gratis con límites"
+  ],
+  [
+   "Traducir un documento",
+   "Google Traductor",
+   "Sube un archivo Word o PDF y recibe la traducción.",
+   "https://translate.google.com/?op=docs",
+   "Gratis"
+  ],
+  [
+   "Escribir un email",
+   "ChatGPT",
+   "Cuéntale a quién escribes y qué quieres conseguir. Te da el borrador.",
+   "https://chatgpt.com",
+   "Gratis con límites"
+  ]
+ ],
+ "P": {
+  "Crear un CV": [
+   "generador-cv",
+   "Generador de CV con IA gratis",
+   "Crea un currículum profesional en minutos, sin pagar ni marca de agua.",
+   [
+    "Reúne estudios, trabajos y logros con cifras.",
+    "Pega la oferta en la IA y pide que adapte tu perfil.",
+    "Pasa el texto a una plantilla y descarga el PDF."
+   ],
+   "Actúa como experto en selección de personal. Redacta un perfil profesional de 4 líneas para este puesto: [PUESTO]. Mi experiencia: [EXPERIENCIA]. Usa verbos de acción y cifras."
+  ],
+  "Escribir una carta": [
+   "carta-presentacion",
+   "Carta de presentación con IA",
+   "Genera una carta personalizada para cada oferta de empleo.",
+   [
+    "Copia la descripción de la oferta.",
+    "Añade tu experiencia y por qué te interesa el puesto.",
+    "Revisa el borrador y cambia lo que no suene a ti."
+   ],
+   "Escribe una carta de presentación de 200 palabras para el puesto [PUESTO] en [EMPRESA]. Mi experiencia: [EXPERIENCIA]. Tono cercano y profesional."
+  ],
+  "Resumir un PDF": [
+   "resumir-pdf",
+   "Resumir un PDF con IA gratis",
+   "Sube un documento largo y obtén las ideas clave en segundos.",
+   [
+    "Sube el PDF a la herramienta.",
+    "Pide un resumen o haz preguntas concretas.",
+    "Contrasta los datos importantes con el original."
+   ],
+   "Resume este documento en 10 puntos clave y añade 5 preguntas de repaso con su respuesta."
+  ],
+  "Crear una presentación": [
+   "crear-presentacion",
+   "Crear una presentación con IA",
+   "Pasa de una idea a unas diapositivas listas para exponer.",
+   [
+    "Escribe el tema y el público al que te diriges.",
+    "Genera el esquema y elige un diseño.",
+    "Ajusta textos e imágenes y exporta."
+   ],
+   "Crea el esquema de una presentación de [N] diapositivas sobre [TEMA] para [PÚBLICO]. Para cada diapositiva da título y 3 ideas breves."
+  ],
+  "Mejorar un texto": [
+   "mejorar-texto",
+   "Corrector y mejora de textos con IA",
+   "Corrige faltas y haz que tu texto se entienda mejor.",
+   [
+    "Pega tu texto en el corrector.",
+    "Acepta las correcciones de ortografía y gramática.",
+    "Pide a un asistente que lo reescriba con el tono que quieras."
+   ],
+   "Mejora este texto: corrige errores, hazlo más claro y conciso, y mantén mi tono. Texto: [TEXTO]"
+  ],
+  "Crear un logo": [
+   "crear-logo",
+   "Crear un logo con IA gratis",
+   "Diseña la identidad de tu proyecto sin saber diseñar.",
+   [
+    "Elige un nombre y unas palabras que definan tu marca.",
+    "Genera varias opciones y escoge una.",
+    "Descarga el archivo y pruébalo en tamaño pequeño."
+   ],
+   "Dame 10 nombres cortos y fáciles de recordar para un proyecto de [SECTOR], con una frase sobre el estilo visual de cada uno."
+  ],
+  "Generar una imagen": [
+   "generar-imagen",
+   "Generar imágenes con IA gratis",
+   "Convierte una descripción en una imagen original.",
+   [
+    "Describe sujeto, estilo y ambiente.",
+    "Genera varias versiones y elige la mejor.",
+    "Revisa los detalles y los derechos de uso antes de publicar."
+   ],
+   "Ilustración de [SUJETO] en estilo [ESTILO], luz [TIPO DE LUZ], fondo [FONDO], alta calidad."
+  ],
+  "Plan de estudio": [
+   "plan-estudio",
+   "Plan de estudio con IA",
+   "Organiza tu temario y tus fechas de examen sin agobios.",
+   [
+    "Sube tus apuntes o lista los temas.",
+    "Indica fecha de examen y horas libres por día.",
+    "Pide un calendario y preguntas para autoevaluarte."
+   ],
+   "Tengo un examen de [ASIGNATURA] el [FECHA] y estudio [HORAS] horas al día. Crea un plan diario con repasos y tests."
+  ],
+  "Traducir un documento": [
+   "traducir-documento",
+   "Traducir documentos con IA",
+   "Traduce archivos completos conservando el formato.",
+   [
+    "Sube el archivo Word, PDF o PowerPoint.",
+    "Elige idioma de origen y destino.",
+    "Revisa nombres propios y términos técnicos."
+   ],
+   "Traduce este texto al [IDIOMA] con un tono [FORMAL/INFORMAL] y mantén los términos técnicos. Texto: [TEXTO]"
+  ],
+  "Escribir un email": [
+   "generador-emails",
+   "Generador de emails con IA",
+   "Escribe correos claros y con el tono adecuado en un minuto.",
+   [
+    "Indica a quién escribes y qué quieres conseguir.",
+    "Elige el tono: formal, cercano o directo.",
+    "Lee el borrador y añade datos concretos."
+   ],
+   "Redacta un email [FORMAL/CERCANO] para [DESTINATARIO] con este objetivo: [OBJETIVO]. Máximo 120 palabras, con asunto."
+  ]
+ },
+ "G": [
+  [
+   "cv-con-ia",
+   "Cómo hacer un CV con IA",
+   "Guía paso a paso para crear un currículum que pase los filtros.",
+   "<p>Un buen CV cabe en una página y responde a la oferta. La IA te ayuda a redactar, pero los datos tienen que ser tuyos.</p><h2>Qué hacer</h2><p>Reúne tus logros con números, pega la oferta en el asistente y pide que ajuste tu perfil. Después pasa el texto a <a href='#/generador-cv'>una plantilla gratuita</a>.</p><h2>Qué evitar</h2><p>No inventes experiencia ni dejes frases genéricas. Lee el resultado en voz alta antes de enviarlo.</p>"
+  ],
+  [
+   "ia-para-estudiantes",
+   "Mejores herramientas de IA para estudiantes",
+   "Resúmenes, planes de estudio y traducciones sin gastar dinero.",
+   "<p>La IA sirve para estudiar mejor, no para copiar. Úsala para entender, repasar y organizarte.</p><h2>Para empezar</h2><p>Sube tus apuntes y <a href='#/resumir-pdf'>resúmelos</a>, crea un <a href='#/plan-estudio'>plan de estudio</a> y pide preguntas de examen.</p><h2>Recuerda</h2><p>Contrasta siempre los datos con tus apuntes: la IA puede equivocarse con seguridad.</p>"
+  ],
+  [
+   "herramientas-ia-gratis",
+   "Herramientas de IA gratuitas para empezar",
+   "Una selección corta para cada necesidad cotidiana.",
+   "<p>No necesitas probar cientos de herramientas. Con unas pocas cubres casi todo.</p><h2>Para escribir</h2><p>Un asistente como ChatGPT o Gemini y un corrector. Mira <a href='#/mejorar-texto'>mejorar textos</a> y <a href='#/generador-emails'>emails</a>.</p><h2>Para crear</h2><p>Prueba <a href='#/crear-presentacion'>presentaciones</a>, <a href='#/crear-logo'>logos</a> y <a href='#/generar-imagen'>imágenes</a>.</p>"
+  ]
+ ]
+}
